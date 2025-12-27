@@ -100,26 +100,22 @@
 
 ## 🧠 Selected Work
 
+> A few projects I find especially interesting — many more projects are available in my repositories.
+
 ### 1) Industrial / Manipulators
-- **Internship focus (FANUC):** hazardous object extraction from moving conveyor (integration + safety + execution)
-- ROS 2 perception pipeline used in robotics contexts:  
-  - **ROS 2 Monocular Depth + 3D Reconstruction:** https://github.com/Ureed-Hussain/ros2-monocular-depth-yolov8-reconstruction
+- **(Ongoing)** **Internship focus (FANUC):** hazardous object extraction from a moving conveyor belt (integration + safety + execution)
 
 ### 2) Mobile Robotics
-- **Autonomous Frontier Exploration (ROS 2 Humble):** https://github.com/Ureed-Hussain/Autonomous-Frontier-Exploration-with-RRT-in-ROS-2  
-- **Virtual Obstacle Mapping & Localization:** https://github.com/Ureed-Hussain/TurtleBot3_Virtual_Obstacle_Mapping_Localization  
 - **Real-Time Virtual Obstacle Mapping (Simulation):** https://github.com/Ureed-Hussain/Real-Time-TurtleBot3-Virtual-Obstacle-Mapping-Localization-In-Simulation  
-- **Monte Carlo Localization (Particle Filter):** https://github.com/Ureed-Hussain/MonteCarlo-Localization
+- **Autonomous Frontier Exploration (ROS 2 Humble):** https://github.com/Ureed-Hussain/Autonomous-Frontier-Exploration-with-RRT-in-ROS-2
 
-### 3) Vision
-- **Lucas–Kanade Motion Analysis (Optical Flow):** https://github.com/Ureed-Hussain/Lucas-Kanade-Motion-Analysis  
-- **Eigenfaces (PCA/SVD) Face Recognition:** https://github.com/Ureed-Hussain/Eigenfaces-for-Face-Recognition-using-SVD  
-- **Noise Analysis + Filtering (MATLAB):** https://github.com/Ureed-Hussain/Image-Processing-Noise-Analysis-in-MATLAB
+### 3) Vision / Perception
+- **Incremental SfM Pipeline:** https://github.com/Ureed-Hussain/incremental-sfm-pipeline  
+- **ROS 2 Monocular Depth + 3D Reconstruction:** https://github.com/Ureed-Hussain/ros2-monocular-depth-yolov8-reconstruction
 
 ### 4) Deep Learning
 - **Traffic Sign Detection (Faster R-CNN, PyTorch):** https://github.com/Ureed-Hussain/traffic-sign-detection-faster-rcnn  
-- **Self-Organizing Map (SOM) Time-Series Classification:** https://github.com/Ureed-Hussain/Kohonen-Self-Organizing-Map--SOM-  
-- **ROS 2 Detection-based Robot Behavior (Simulation):** https://github.com/Ureed-Hussain/turtlebot3-line-follower-yolov8-stop-sign
+- **Self-Organizing Map (SOM) Time-Series Classification:** https://github.com/Ureed-Hussain/Kohonen-Self-Organizing-Map--SOM-
 
 ---
 
