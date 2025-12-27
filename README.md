@@ -4,11 +4,11 @@
      ========================= -->
 
 <h1 align="center">Muhammad Ureed Hussain</h1>
-<h3 align="center">Robotics Engineer • ROS 2 • Motion Planning • Perception for Robotics</h3>
+<h3 align="center">Vision and Robotics Engineer • ROS 2 • Motion Planning • Perception-to-Action</h3>
 
 <p align="center">
   <i>
-    Robotics-first profile with a strong foundation in Computer Vision — focused on building reliable robot systems for real-world environments.
+    Robotics-first profile with strong vision foundations — focused on building reliable robot systems for real-world environments.
   </i>
 </p>
 
@@ -31,24 +31,24 @@
 - 📍 **Le Creusot, France**
 - 🎓 **VIBOT (Vision & Robotics)** — European Master at  
   <a href="https://www.ube.fr/en/home/">
-    <img src="https://logo.clearbit.com/ube.fr" height="18" alt="Université de Bourgogne Europe logo" />
-    <b>Université de Bourgogne Europe (uB)</b>
+    <img src="./assets/ube.png" height="20" alt="Université Bourgogne Europe logo" />
+    <b>Université Bourgogne Europe (uB)</b>
   </a>
 
 - 🏭 **Industry Experience:** full-time and part-time at  
   <a href="https://www.wasoria.fr/">
-    <img src="https://logo.clearbit.com/wasoria.fr" height="18" alt="Wasoria logo" />
+    <img src="./assets/wasoria.png" height="20" alt="Wasoria logo" />
     <b>Wasoria</b>
   </a>
 
 - 🔧 **Current Internship (Industrial Robotics — FANUC):** collaboration between  
   <a href="https://www.wasoria.fr/">
-    <img src="https://logo.clearbit.com/wasoria.fr" height="18" alt="Wasoria logo" />
+    <img src="./assets/wasoria.png" height="18" alt="Wasoria logo" />
     <b>Wasoria</b>
   </a>
   and
   <a href="https://imvia.ube.fr/">
-    <img src="https://logo.clearbit.com/imvia.ube.fr" height="18" alt="imVia lab logo" />
+    <img src="./assets/imvia.png" height="18" alt="imVia Lab logo" />
     <b>imVia Lab</b>
   </a>  
   Building a system to **extract hazardous objects from a moving conveyor belt** (robot integration, safety constraints, perception + control pipeline).
@@ -84,7 +84,7 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-4E9BCD?style=for-the-badge&logo=gazebo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 
-### Computer Vision / ML (supporting skills)
+### Vision / ML (supporting)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -98,24 +98,33 @@
 
 ---
 
-## 🧠 Selected Work (by area)
+## 🧠 Selected Work
 
-**Industrial / Manipulators**
-- FANUC-based hazardous object extraction from moving conveyor (internship focus)
-- Motion planning and execution workflows (MoveIt + ROS 2)
+### 1) Industrial / Manipulators
+- **Internship focus (FANUC):** hazardous object extraction from moving conveyor (integration + safety + execution)
+- ROS 2 perception pipeline used in robotics contexts:  
+  - **ROS 2 Monocular Depth + 3D Reconstruction:** https://github.com/Ureed-Hussain/ros2-monocular-depth-yolov8-reconstruction
 
-**Mobile Robotics**
-- ROS 2 TurtleBot3 autonomy projects (navigation, mapping, exploration)
-- Probabilistic localization (Monte Carlo Localization)
+### 2) Mobile Robotics
+- **Autonomous Frontier Exploration (ROS 2 Humble):** https://github.com/Ureed-Hussain/Autonomous-Frontier-Exploration-with-RRT-in-ROS-2  
+- **Virtual Obstacle Mapping & Localization:** https://github.com/Ureed-Hussain/TurtleBot3_Virtual_Obstacle_Mapping_Localization  
+- **Real-Time Virtual Obstacle Mapping (Simulation):** https://github.com/Ureed-Hussain/Real-Time-TurtleBot3-Virtual-Obstacle-Mapping-Localization-In-Simulation  
+- **Monte Carlo Localization (Particle Filter):** https://github.com/Ureed-Hussain/MonteCarlo-Localization
 
-**Perception for Robotics**
-- Monocular depth + 3D perception pipelines
-- Detection baselines (PyTorch)
+### 3) Vision
+- **Lucas–Kanade Motion Analysis (Optical Flow):** https://github.com/Ureed-Hussain/Lucas-Kanade-Motion-Analysis  
+- **Eigenfaces (PCA/SVD) Face Recognition:** https://github.com/Ureed-Hussain/Eigenfaces-for-Face-Recognition-using-SVD  
+- **Noise Analysis + Filtering (MATLAB):** https://github.com/Ureed-Hussain/Image-Processing-Noise-Analysis-in-MATLAB
+
+### 4) Deep Learning
+- **Traffic Sign Detection (Faster R-CNN, PyTorch):** https://github.com/Ureed-Hussain/traffic-sign-detection-faster-rcnn  
+- **Self-Organizing Map (SOM) Time-Series Classification:** https://github.com/Ureed-Hussain/Kohonen-Self-Organizing-Map--SOM-  
+- **ROS 2 Detection-based Robot Behavior (Simulation):** https://github.com/Ureed-Hussain/turtlebot3-line-follower-yolov8-stop-sign
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: **ureedhussain214@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-ureed-hussain-86947219b/**
-- 🧑‍💻 GitHub: **https://github.com/Ureed-Hussain**
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-ureed-hussain-86947219b/
+- 🧑‍💻 GitHub: https://github.com/Ureed-Hussain
